@@ -1,0 +1,42 @@
+2025-01-26 00:16:40,912 - WARNING -  * Debugger is active!
+2025-01-26 00:16:40,921 - INFO -  * Debugger PIN: 565-914-153
+2025-01-26 00:17:05,112 - WARNING - Unauthorized access attempt
+2025-01-26 00:17:05,113 - INFO - 127.0.0.1 - - [26/Jan/2025 00:17:05] "[31m[1mPOST /api/chatbot?auth_token=student_token&prompt=Hello HTTP/1.1[0m" 401 -
+2025-01-26 00:17:34,522 - ERROR - 127.0.0.1 - - [26/Jan/2025 00:17:34] code 400, message Bad request version ('À\x13À')
+2025-01-26 00:17:34,522 - INFO - 127.0.0.1 - - [26/Jan/2025 00:17:34] "[31m[1m\x16\x03\x01\x00ó\x01\x00\x00ï\x03\x03\x85\x8cÕ-Ö\x1a\x9b}éUz[\x1e­\x7f*O÷iÆÄ\x18i\x0d\x12:F$ñ!ð\x03 z\x096G~\x9dË\x9bZx\x8cel\\O cq\\²\x17]S\x07\x96]Ó¹r-ë\x90\x00$\x13\x01\x13\x02\x13\x03À/À+À0À,À'Ì©Ì¨À\x09À\x13À[0m" 400 -
+2025-01-26 00:17:38,956 - WARNING - Unauthorized access attempt
+2025-01-26 00:17:38,957 - INFO - 127.0.0.1 - - [26/Jan/2025 00:17:38] "[31m[1mPOST /api/chatbot?auth_token=student_token&prompt=Hello HTTP/1.1[0m" 401 -
+2025-01-26 00:21:30,870 - WARNING - Unauthorized access attempt
+2025-01-26 00:21:30,871 - INFO - 127.0.0.1 - - [26/Jan/2025 00:21:30] "[31m[1mPOST /api/chatbot?Authorization=student_token&prompt=Hello HTTP/1.1[0m" 401 -
+2025-01-26 00:21:33,205 - WARNING - Unauthorized access attempt
+2025-01-26 00:21:33,205 - INFO - 127.0.0.1 - - [26/Jan/2025 00:21:33] "[31m[1mPOST /api/chatbot?Authorization=student_token&prompt=Hello HTTP/1.1[0m" 401 -
+2025-01-26 00:22:09,049 - WARNING - Unauthorized access attempt
+2025-01-26 00:22:09,050 - INFO - 127.0.0.1 - - [26/Jan/2025 00:22:09] "[31m[1mPOST /api/chatbot?Authorization=student_token&prompt=Hello HTTP/1.1[0m" 401 -
+2025-01-26 00:22:09,985 - WARNING - Unauthorized access attempt
+2025-01-26 00:22:09,986 - INFO - 127.0.0.1 - - [26/Jan/2025 00:22:09] "[31m[1mPOST /api/chatbot?Authorization=student_token&prompt=Hello HTTP/1.1[0m" 401 -
+2025-01-26 02:17:48,405 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-26 02:17:48,405 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 02:17:48,407 - INFO -  * Restarting with stat
+2025-01-26 02:17:48,899 - WARNING -  * Debugger is active!
+2025-01-26 02:17:48,910 - INFO -  * Debugger PIN: 565-914-153
+2025-01-26 02:18:02,915 - WARNING - Unauthorized access attempt
+2025-01-26 02:18:02,916 - INFO - 127.0.0.1 - - [26/Jan/2025 02:18:02] "[31m[1mPOST /api/chatbot?Authorization=student_token&prompt=Hello HTTP/1.1[0m" 401 -
+2025-01-26 02:18:16,519 - INFO -  * Detected change in 'c:\\Users\\21654\\OneDrive\\Desktop\\codelab\\middleware.py', reloading
+2025-01-26 02:18:16,574 - INFO -  * Restarting with stat
+2025-01-26 02:18:17,093 - WARNING -  * Debugger is active!
+2025-01-26 02:18:17,101 - INFO -  * Debugger PIN: 565-914-153
+2025-01-26 02:18:18,159 - INFO -  * Detected change in 'c:\\Users\\21654\\OneDrive\\Desktop\\codelab\\middleware.py', reloading
+2025-01-26 02:18:18,204 - INFO -  * Restarting with stat
+2025-01-26 02:18:18,705 - WARNING -  * Debugger is active!
+2025-01-26 02:18:18,718 - INFO -  * Debugger PIN: 565-914-153
+2025-01-26 02:18:20,811 - INFO -  * Detected change in 'c:\\Users\\21654\\OneDrive\\Desktop\\codelab\\middleware.py', reloading
+2025-01-26 02:18:20,890 - INFO -  * Restarting with stat
+2025-01-26 02:18:21,394 - WARNING -  * Debugger is active!
+2025-01-26 02:18:21,404 - INFO -  * Debugger PIN: 565-914-153
+2025-01-26 02:18:48,076 - INFO - Request received: Role=student, Prompt=Hello, how can I improve my learning?
+2025-01-26 02:18:48,076 - INFO - 127.0.0.1 - - [26/Jan/2025 02:18:48] "POST /api/chatbot?Authorization=student_token&prompt=Hello HTTP/1.1" 200 -
+2025-01-26 02:18:55,080 - INFO -  * Detected change in 'c:\\Users\\21654\\OneDrive\\Desktop\\codelab\\middleware.py', reloading
+2025-01-26 02:18:55,158 - INFO -  * Restarting with stat
+2025-01-26 02:18:55,695 - WARNING -  * Debugger is active!
+2025-01-26 02:18:55,705 - INFO -  * Debugger PIN: 565-914-153
